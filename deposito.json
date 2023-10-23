@@ -1,0 +1,387 @@
+[
+    {
+        "id": 1,
+        "fecha": "23-10-20",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 35000
+        }
+    },
+    {
+        "id": 2,
+        "fecha": "23-10-20",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 36000
+        }
+    },
+    {
+        "id": 3,
+        "fecha": "23-10-20",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 37000
+        }
+    },
+    {
+        "id": 4,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 38000
+        }
+    },
+    {
+        "id": 5,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 39000
+        }
+    },
+    {
+        "id": 7,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 40000
+        }
+    },
+    {
+        "id": 8,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 41000
+        }
+    },
+    {
+        "id": 9,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 42000
+        }
+    },
+    {
+        "id": 10,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 43000
+        }
+    },
+    {
+        "id": 11,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 44000
+        }
+    },
+    {
+        "id": 12,
+        "fecha": "23-10-21",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 672587,
+            "nombre": "lolo",
+            "apellido": "armani",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "40938077",
+            "email": "lolo@gmail.com",
+            "tipoDeCuenta": "cc",
+            "moneda": "$",
+            "saldo": 45000
+        }
+    },
+    {
+        "id": 13,
+        "fecha": "23-10-21",
+        "importe": "200",
+        "cuenta": {
+            "numeroDeCuenta": 800994,
+            "nombre": "pepe",
+            "apellido": "perez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909123",
+            "email": "pepe@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "U$S",
+            "saldo": 1200
+        }
+    },
+    {
+        "id": 14,
+        "fecha": "23-10-21",
+        "importe": "200",
+        "cuenta": {
+            "numeroDeCuenta": 800994,
+            "nombre": "pepe",
+            "apellido": "perez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909123",
+            "email": "pepe@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "U$S",
+            "saldo": 1400
+        }
+    },
+    {
+        "id": 15,
+        "fecha": "23-10-21",
+        "importe": "200",
+        "cuenta": {
+            "numeroDeCuenta": 800994,
+            "nombre": "pepe",
+            "apellido": "perez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909123",
+            "email": "pepe@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "U$S",
+            "saldo": 1600
+        }
+    },
+    {
+        "id": 16,
+        "fecha": "23-10-21",
+        "importe": "200",
+        "cuenta": {
+            "numeroDeCuenta": 800994,
+            "nombre": "pepe",
+            "apellido": "perez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909123",
+            "email": "pepe@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "U$S",
+            "saldo": 1800
+        }
+    },
+    {
+        "id": 17,
+        "fecha": "23-10-21",
+        "importe": "1500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 21500
+        }
+    },
+    {
+        "id": 18,
+        "fecha": "23-10-21",
+        "importe": "1500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 23000
+        }
+    },
+    {
+        "id": 19,
+        "fecha": "23-10-22",
+        "importe": "1500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 24500
+        }
+    },
+    {
+        "id": 20,
+        "fecha": "23-10-22",
+        "importe": "1500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 26000
+        },
+        "tipo": {}
+    },
+    {
+        "id": 21,
+        "fecha": "23-10-23",
+        "importe": null,
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 26000
+        }
+    },
+    {
+        "id": 22,
+        "fecha": "23-10-23",
+        "importe": null,
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 27500
+        }
+    },
+    {
+        "id": 23,
+        "fecha": "23-10-23",
+        "importe": null,
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 29000
+        }
+    },
+    {
+        "id": 24,
+        "fecha": "23-10-23",
+        "importe": "1500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 30500
+        }
+    },
+    {
+        "id": 25,
+        "fecha": "23-10-23",
+        "importe": "1500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 32000
+        }
+    }
+]

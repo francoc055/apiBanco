@@ -1,0 +1,20 @@
+[
+    {
+        "numeroDeCuenta": "287652",
+        "idTransaccion": 25,
+        "tipoAjuste": "deposito",
+        "motivo": "otro"
+    },
+    {
+        "numeroDeCuenta": "287652",
+        "idTransaccion": 6,
+        "tipoAjuste": "retiro",
+        "motivo": "otro"
+    },
+    {
+        "numeroDeCuenta": "287652",
+        "idTransaccion": 7,
+        "tipoAjuste": "retiro",
+        "motivo": "otro"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "fecha": "23-10-23",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 30000
+        }
+    },
+    {
+        "id": 2,
+        "fecha": "23-10-23",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 29000
+        }
+    },
+    {
+        "id": 3,
+        "fecha": "23-10-23",
+        "importe": "500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 28500
+        }
+    },
+    {
+        "id": 4,
+        "fecha": "23-10-23",
+        "importe": "5000",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 23500
+        }
+    },
+    {
+        "id": 5,
+        "fecha": "23-10-23",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 22500
+        }
+    },
+    {
+        "id": 6,
+        "fecha": "23-10-23",
+        "importe": "1000",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 21500
+        }
+    },
+    {
+        "id": 7,
+        "fecha": "23-10-23",
+        "importe": "500",
+        "cuenta": {
+            "numeroDeCuenta": 287652,
+            "nombre": "agustin",
+            "apellido": "gonzalez",
+            "tipoDocumento": "dni",
+            "numeroDocumento": "35909547",
+            "email": "agus@gmail.com",
+            "tipoDeCuenta": "ca",
+            "moneda": "$",
+            "saldo": 19000
+        }
+    }
+]

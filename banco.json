@@ -1,0 +1,35 @@
+[
+    {
+        "numeroDeCuenta": 672587,
+        "nombre": "lorenzo",
+        "apellido": "diaz",
+        "tipoDocumento": "dni",
+        "numeroDocumento": "22345678",
+        "email": "lolo@gmail.com",
+        "tipoDeCuenta": "cc",
+        "moneda": "$",
+        "saldo": 45000
+    },
+    {
+        "numeroDeCuenta": 800994,
+        "nombre": "pepe",
+        "apellido": "perez",
+        "tipoDocumento": "dni",
+        "numeroDocumento": "35909123",
+        "email": "pepe@gmail.com",
+        "tipoDeCuenta": "ca",
+        "moneda": "U$S",
+        "saldo": 1800
+    },
+    {
+        "numeroDeCuenta": 287652,
+        "nombre": "agustin",
+        "apellido": "gonzalez",
+        "tipoDocumento": "dni",
+        "numeroDocumento": "35909547",
+        "email": "agus@gmail.com",
+        "tipoDeCuenta": "ca",
+        "moneda": "$",
+        "saldo": 19500
+    }
+]
